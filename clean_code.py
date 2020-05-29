@@ -1,8 +1,4 @@
-'''
-dei i want the gui to be material UI if possible or make back ground like pyridine app (that gradient background), place a w3 card with contrasting home page colour and 
-the card should be in contrasting colour 
-and, the list 1 (l1) 
-'''
+
 from tkinter import *
 import numpy as np
 
