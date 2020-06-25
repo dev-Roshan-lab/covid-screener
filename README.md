@@ -10,7 +10,7 @@ the brain of the application
 - run command "pip install -r requirements.txt"
 - run _"clean_code.py"_
 ### Linux
-- Clone the Repo using "git clone https://github.com/dev-Roshan-lab/symptom-checker.git"
+- Clone the Repo using "git clone https://github.com/dev-Roshan-lab/covid-screener.git"
 - run command "pip install -r requirements.txt"
 - run _"clean_code.py"_
 
