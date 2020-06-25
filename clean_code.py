@@ -64,7 +64,7 @@ def DecisionTree():
     predicted=predict[0]
 
     h='no'
-    for a in range(0,len(disease)):
+    for a in range(0,len(disease)):# assigning value for variable "a" while checking the output number exists line 20 
         if(predicted == a):
             h='yes'
             break
@@ -182,7 +182,7 @@ w2.grid(row=2, column=0, columnspan=2, padx=100)
 NameLb = Label(root, text="Name of the Patient", fg="yellow", bg="black")
 NameLb.grid(row=6, column=0, pady=15, sticky=W)
 
-
+#Poor GUI stuffs
 S1Lb = Label(root, text="Choose Your Blood Group (either O-blood-group or Other-blood-group)", fg="yellow", bg="black")
 S1Lb.grid(row=7, column=0, pady=10, sticky=W)
 
