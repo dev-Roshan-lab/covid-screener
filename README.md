@@ -1,7 +1,6 @@
-# symptom-checker
-Well all it asks, are your symptoms to diagnose what your are suffering from diseases if any
-
-#clean_code.py
+# coronavirus-screener
+Well all it asks, are your symptoms to diagnose your risk toward covid-19
+# clean_code.py
 the brain of the application 
 
 ## How to run
